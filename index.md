@@ -1,1 +1,1 @@
-![Resume]("Jason Parraga Resume.pdf "some discription")
+![Resume](resume.pdf "some discription")
