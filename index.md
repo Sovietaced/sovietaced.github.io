@@ -1,1 +1,1 @@
-![Resume](resume.pdf "some discription")
+![Resume](resume.png)
